@@ -1,0 +1,4 @@
+solid_element_formulation,ls_dyna_elform,max_deformation_mm,max_von_mises_MPa,cpu_time_s,cycles
+Constant stress 1-point,1,13.40,336.6,11,1777
+Fully integrated S/R,2,14.12,325.1,37,1757
+Fully integrated 6-DOF/node,3,13.85,358.1,126,1756
