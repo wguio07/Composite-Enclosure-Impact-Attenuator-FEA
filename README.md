@@ -52,7 +52,7 @@ The study answers three questions:
 
 ### Geometry
 
-A 2,100 × 1,260 × 250 mm enclosure with 10 mm walls and internal stiffening ribs. The attenuator fits a 100 mm envelope on the front face.
+A 2,100 × 1,280 × 250 mm enclosure with 10 mm walls and internal stiffening ribs. The attenuator fits a 100 mm envelope on the front face.
 
 | Enclosure geometry | Attenuator ply stacks |
 |:---:|:---:|
